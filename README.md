@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **xex decompiler**
 
-- 🌱 I’m currently learning **OpenGL**
+- 🌱 I’m currently learning **Type analysis using SSA form**
 
 - 📫 How to reach me **akmubi@yandex.ru**
 
