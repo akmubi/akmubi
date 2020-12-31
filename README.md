@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm akmubi</h1>
 <h3 align="center">A student learning low-level things</h3>
 
-- 🔭 I’m currently working on **xex decompiler**
+- 🔭 I’m currently working on **decompiler module**
 
-- 🌱 I’m currently learning **Type analysis using SSA form**
+- 🌱 I’m currently learning **OpenGL**
 
 - 📫 How to reach me **akmubi@yandex.ru**
 
