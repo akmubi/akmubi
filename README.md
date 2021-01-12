@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **decompiler module**
 
-- 🌱 I’m currently learning **OpenGL**
+- 🌱 I’m currently learning **Real-time rendering... things**
 
 - 📫 How to reach me **akmubi@yandex.ru**
 
